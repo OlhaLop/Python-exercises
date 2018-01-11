@@ -8,6 +8,8 @@ while True:
 
 length=2*height-1
 
+print ("icreadible pyramide")
+
 for i in range (height):
     spaces=length-2*i-1
     s=int(spaces/2)
